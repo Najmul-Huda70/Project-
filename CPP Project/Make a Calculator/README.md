@@ -1,5 +1,5 @@
 # Project: Advanced Calculator
-## Working Day : 12/04/2024 to 09/05/2024
+#### Working Day : 12/04/2024 to 09/05/2024
  ## Project Overview:
 This is an advanced command-line calculator built using C++. It supports a wide range of operations, including arithmetic, logarithmic functions, trigonometric operations, number system conversions, and combinatorial functions. The calculator can handle basic mathematical operations, factorials, permutations, combinations, logarithms, angle-based trigonometric functions (like sine, cosine, tangent, etc.), and various number system conversions (binary, octal, decimal, hexadecimal).
 
