@@ -1,7 +1,7 @@
 # Hostel Meal Management System Project - Detailed Description
 
 ## Project Title: Hostel Meal Management System
-## Working Day : 05/03/2025 to 19/03/2025
+#### Working Day : 05/03/2025 to 19/03/2025
 
 ## Project Overview:
 ### The Hostel Meal Management System is a software tool to track meal consumption, deposits, and costs in a hostel setting. The program uses a set of CSV files to store data for meals, deposits, and hostel costs, allowing users to interact with the system via a console interface. It provides an overview of meals consumed by hostel members, their deposits, balances, and overall cost management.
